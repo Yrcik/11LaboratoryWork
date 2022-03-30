@@ -1,0 +1,16 @@
+C:\Users\belyo\source\repos\Laba11C\Laba11C\obj\Debug\netcoreapp3.1\Laba11C.csproj.AssemblyReference.cache
+C:\Users\belyo\source\repos\Laba11C\Laba11C\obj\Debug\netcoreapp3.1\Laba11C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belyo\source\repos\Laba11C\Laba11C\obj\Debug\netcoreapp3.1\Laba11C.AssemblyInfoInputs.cache
+C:\Users\belyo\source\repos\Laba11C\Laba11C\obj\Debug\netcoreapp3.1\Laba11C.AssemblyInfo.cs
+C:\Users\belyo\source\repos\Laba11C\Laba11C\obj\Debug\netcoreapp3.1\Laba11C.csproj.CoreCompileInputs.cache
+C:\Users\belyo\source\repos\Laba11C\Laba11C\bin\Debug\netcoreapp3.1\Laba11C.exe
+C:\Users\belyo\source\repos\Laba11C\Laba11C\bin\Debug\netcoreapp3.1\Laba11C.deps.json
+C:\Users\belyo\source\repos\Laba11C\Laba11C\bin\Debug\netcoreapp3.1\Laba11C.runtimeconfig.json
+C:\Users\belyo\source\repos\Laba11C\Laba11C\bin\Debug\netcoreapp3.1\Laba11C.runtimeconfig.dev.json
+C:\Users\belyo\source\repos\Laba11C\Laba11C\bin\Debug\netcoreapp3.1\Laba11C.dll
+C:\Users\belyo\source\repos\Laba11C\Laba11C\bin\Debug\netcoreapp3.1\Laba11C.pdb
+C:\Users\belyo\source\repos\Laba11C\Laba11C\obj\Debug\netcoreapp3.1\Laba11C.dll
+C:\Users\belyo\source\repos\Laba11C\Laba11C\obj\Debug\netcoreapp3.1\Laba11C.pdb
+C:\Users\belyo\source\repos\Laba11C\Laba11C\obj\Debug\netcoreapp3.1\Laba11C.genruntimeconfig.cache
+C:\Users\belyo\source\repos\Laba11C\Laba11C\obj\Debug\netcoreapp3.1\Laba11C.csproj.CopyComplete
+C:\Users\belyo\source\repos\Laba11C\Laba11C\bin\Debug\netcoreapp3.1\Laba10_1.pdb
